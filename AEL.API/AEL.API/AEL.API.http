@@ -1,0 +1,6 @@
+@AEL.API_HostAddress = http://localhost:5124
+
+GET {{AEL.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
