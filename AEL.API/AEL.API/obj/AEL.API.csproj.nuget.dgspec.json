@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.API\\AEL.API\\AEL.API.csproj": {}
+    "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.TASK\\AEL.API\\AEL.API\\AEL.API.csproj": {}
   },
   "projects": {
-    "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.API\\AEL.API\\AEL.API.csproj": {
+    "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.TASK\\AEL.API\\AEL.API\\AEL.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.API\\AEL.API\\AEL.API.csproj",
+        "projectUniqueName": "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.TASK\\AEL.API\\AEL.API\\AEL.API.csproj",
         "projectName": "AEL.API",
-        "projectPath": "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.API\\AEL.API\\AEL.API.csproj",
+        "projectPath": "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.TASK\\AEL.API\\AEL.API\\AEL.API.csproj",
         "packagesPath": "C:\\Users\\maa baba electronics\\.nuget\\packages\\",
-        "outputPath": "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.API\\AEL.API\\obj\\",
+        "outputPath": "C:\\UniversalFileManager\\AEL\\FinalProject\\AEL.TASK\\AEL.API\\AEL.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
